@@ -18,10 +18,10 @@
 // 
 // 	Contributeurs: Fanny ALLEAUME, Pierre-Olivier VERSCHOORE, Laurent GAY
 //  // help file write by SDK tool
-// --- Last modification: Date 01 March 2008 12:14:48 By  ---
+// --- Last modification: Date 14 August 2008 21:46:28 By  ---
 
-$HelpTitle='Système Pitet';
-$HelpPosition=0;
+$HelpTitle='Lucterios';
+$HelpPosition=1;
 
 $HelpDescriptions=array();
 $HelpDescriptions[0]=array('presentation','Présentation',1);

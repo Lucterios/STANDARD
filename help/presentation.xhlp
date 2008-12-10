@@ -2,28 +2,28 @@
 
 <h2>Pour les utilisateurs non développeurs</h2>
 
-<p>L'application standard de lucterios vous permet, suite à une installation minimale du système sur votre machine, 
-l'utilisation de tous les modules open-source ou non disponibles sur le système. 
-Avec elle, vous pourrez, tout en devant bien entendu respecter les conditions d'utilisation de chaque module, 
+<p>L'application standard de lucterios vous permet, suite à une installation minimale du système sur votre machine,
+l'utilisation de tous les modules disponibles sur le système.
+Avec elle, vous pourrez, tout en devant bien entendu respecter les conditions d'utilisation de chaque module,
 installer et utiliser tout ce qui sera nécessaire à répondre à vos nécessités.</p>
 
-<p>Les modules les plus faciles à obtenir sont les modules open-source développés et 
-maintenus par l'équipe lusterios ou ajoutés au serveur de mises à jour par 
-d'autres développeurs désireux de partager leur travail. 
-Il sont accéssibles pour installation et mise à jour directement depuis 
-le système de mise à jour inclus dans le système.</p>
+<p>Les modules les plus faciles à obtenir sont les modules open-source développés et
+maintenus par l'équipe lusterios ou ajoutés au serveur de mises à jour par
+d'autres développeurs désireux de partager leur travail.
+Il sont accéssibles pour installation et mise à jour directement depuis
+le système de mise à jour inclus dans l'application.</p>
 
-<p>Ces modules seront de plus en plus nombreux au fur et à mesure du temps et des développements. 
-On y compte déjà le système de mise à jour, la gestion des contacts (personnes physiques et personnes morales) 
-permettant à toute autre module de partager ses informations relatives à des contacts. 
-D'autres modules sont en cours de développement comme  une gestion des achats et une gestion commerciale simplifiée.</p>
+<p>Ces modules seront de plus en plus nombreux au fur et à mesure du temps et des développements.
+On y compte déjà le système de mise à jour, la gestion des contacts (personnes physiques et personnes morales)
+permettant à toute autre module de les utiliser ainsi qu'une gestion documentaire vous simplifiant le partage et la diffusion de fichiers communs.
+D'autres modules sont en cours de développement: rendez-vous sur le site de Lucterios pour en savoir plus.</p>
 
 <h2>Pour les développeurs</h2>
 
 <p>Lucterios est un moteur d'applications client-serveur, multi-plateforme et open-source reposant sur une principe de modules interdépendants.</p>
 
 <p>Si vous le désirez, vous pouvez créer vos propres modules d'extensions pour répondre à vos besoins spécifiques.
-Pour cela installer l'extension <i>SDK</i>. 
+Pour cela installer l'extension <i>SDK</i>.
 Ce portail vous permettra de créer un module et l'ensemble des actions associées à vos données.</p>
 
 <p>De la même façon que vous avez pu apprécier des modules open-sources, vos extensions peuvent peut-être interessé d'autres personnes.

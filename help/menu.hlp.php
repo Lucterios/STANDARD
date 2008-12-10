@@ -18,7 +18,7 @@
 // 
 // 	Contributeurs: Fanny ALLEAUME, Pierre-Olivier VERSCHOORE, Laurent GAY
 //  // help file write by SDK tool
-// --- Last modification: Date 14 August 2008 21:46:28 By  ---
+// --- Last modification: Date 09 December 2008 22:48:43 By  ---
 
 $HelpTitle='Lucterios';
 $HelpPosition=1;

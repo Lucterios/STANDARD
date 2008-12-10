@@ -18,7 +18,7 @@
 // 
 // 	Contributeurs: Fanny ALLEAUME, Pierre-Olivier VERSCHOORE, Laurent GAY
 //  // library file write by SDK tool
-// --- Last modification: Date 07 March 2008 18:01:48 By  ---
+// --- Last modification: Date 09 December 2008 22:44:52 By  ---
 
 //@BEGIN@
 /**
@@ -38,7 +38,7 @@ function application_subtitle()
 */
 function application_CopyRight()
 {
-	return "CopyRight 2008 - Lucterios.org";
+	return "General Public Licence - http://www.lucterios.org";
 }
 
 /**

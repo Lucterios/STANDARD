@@ -1,22 +1,21 @@
 <h1>Application standard Lucterios</h1>
 
-<h2>Pour les utilisateurs non développeurs</h2>
+<h2>Pour les utilisateurs</h2>
 
 <p>L'application standard de lucterios vous permet, suite à une installation minimale du système sur votre machine,
-l'utilisation de tous les modules disponibles sur le système.
-Avec elle, vous pourrez, tout en devant bien entendu respecter les conditions d'utilisation de chaque module,
-installer et utiliser tout ce qui sera nécessaire à répondre à vos nécessités.</p>
+l'utilisation de modules gestions personnalisés qui répondront à vos nécessités.</p>
 
-<p>Les modules les plus faciles à obtenir sont les modules open-source développés et
+<p>Les modules les plus faciles à obtenir sont les extensions open-source développés et
 maintenus par l'équipe lusterios ou ajoutés au serveur de mises à jour par
 d'autres développeurs désireux de partager leur travail.
-Il sont accéssibles pour installation et mise à jour directement depuis
-le système de mise à jour inclus dans l'application.</p>
+Ils s'installent directement depuis la fonctionnalité de mise à jour inclus dans l'application.</p>
 
 <p>Ces modules seront de plus en plus nombreux au fur et à mesure du temps et des développements.
 On y compte déjà le système de mise à jour, la gestion des contacts (personnes physiques et personnes morales)
 permettant à toute autre module de les utiliser ainsi qu'une gestion documentaire vous simplifiant le partage et la diffusion de fichiers communs.
 D'autres modules sont en cours de développement: rendez-vous sur le site de Lucterios pour en savoir plus.</p>
+
+<p>Une autre solution consite à ajouter une adresse de serveur de mise à jours à orientation commercial. Les modules ainsi téléchargés nécessitent parfois une indémnité financière pour les utilisés. Consultez directement les équipes de développement qui réalisent de telles extensions sur leurs modalités.</p>
 
 <h2>Pour les développeurs</h2>
 

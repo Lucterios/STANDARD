@@ -18,7 +18,7 @@
 // 
 // 	Contributeurs: Fanny ALLEAUME, Pierre-Olivier VERSCHOORE, Laurent GAY
 //  // library file write by SDK tool
-// --- Last modification: Date 09 December 2008 22:44:52 By  ---
+// --- Last modification: Date 11 May 2009 20:27:11 By  ---
 
 //@BEGIN@
 /**
@@ -52,6 +52,15 @@ function application_postInstallation($exensionVersions=array())
 {
 	require "extensions/applis/postInstallation.inc.php";
 	return postInstallation($exensionVersions);
+}
+
+/**
+* Retourne le courriel de support
+*
+* @return string
+*/
+function application_SupportEmail() {
+	return "Support Lucterios <support@lucterios.org>";
 }
 //@END@
 ?>

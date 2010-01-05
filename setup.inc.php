@@ -18,7 +18,7 @@
 // 
 // 	Contributeurs: Fanny ALLEAUME, Pierre-Olivier VERSCHOORE, Laurent GAY
 //  // setup file write by SDK tool
-// --- Last modification: Date 17 October 2009 20:24:52 By  ---
+// --- Last modification: Date 05 January 2010 2:23:28 By  ---
 
 $extention_name="applis";
 $extention_description="Produit Lucterios standard";
@@ -29,7 +29,7 @@ $extension_libre=true;
 
 $version_max=1;
 $version_min=1;
-$version_release=4;
+$version_release=5;
 $version_build=5;
 
 $depencies=array();

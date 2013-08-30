@@ -10,7 +10,7 @@ $extension_libre=true;
 
 $version_max=1;
 $version_min=6;
-$version_release=4;
+$version_release=5;
 $version_build=5;
 
 $depencies=array();

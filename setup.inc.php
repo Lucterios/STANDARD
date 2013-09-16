@@ -9,8 +9,8 @@ $extention_titre="Lucterios standard";
 $extension_libre=true;
 
 $version_max=1;
-$version_min=6;
-$version_release=5;
+$version_min=7;
+$version_release=1;
 $version_build=5;
 
 $depencies=array();
